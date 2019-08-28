@@ -326,9 +326,10 @@ public class Main {
                 String locations = "";
                 Set<String> used = new HashSet<>();
                 for (PackageData data : entry.getValue()) {
-                    if (!used.contains(data.from)) {
-                        used.add(data.from);
-                        locations += data.from + ", ";
+                	String from = data.from.toUpperCase();
+                    if (!used.contains(from)) {
+                        used.add(from);
+                        locations += from + ", ";
                     }
                 }
                 
