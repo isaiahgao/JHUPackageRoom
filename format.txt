@@ -1,0 +1,13 @@
+Greetings,  
+ 
+Your student organization, %ORG%, has received %NUM% package(s) from %LOCATIONS%. The first package was delivered on %DELIVERY_DATE%. 
+Please stop by the Student Leadership and Involvement Office (Mattin 131) and speak to a student staff member to retrieve your package(s). Please note all packages must be collected by no later than %PICKUP_BY%. Any packages left after that date will be subject to return or disposal.
+
+These are your organization's package IDs. You may show this email to the student staff member to expedite the retrieval of your packages.
+%IDS%
+%PREVIOUS%
+Fall 2019 package pickup hours: 
+Mon-Fri: 12:00pm-9:00pm 
+Sat-Sun: 8:30am-9:00pm
+ 
+ 

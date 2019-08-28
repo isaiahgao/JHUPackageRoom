@@ -1,0 +1,2 @@
+Since the following packages were not collected within one week of notice, they are at risk of being discarded should storage space become limited:
+%IDS%
