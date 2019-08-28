@@ -2,8 +2,8 @@
 
 1. Extract contents of zip file into a folder.
 2. Open Package Room log on Teams and navigate to the page you want.
-3. `Ctrl+A` to select all entries on the page, and `Ctrl+C` to copy.
-4. Paste this directly into the file titled `raw.config`.
+3. `Ctrl+A` to select all entries on the page, and `Ctrl+C` to copy. It's okay to select the header and other random junk - the program will filter it out.
+4. Paste this directly into the file titled `raw.config`. Repeat steps 3-4 if desired to combine multiple months into the same batch.
 5. Run the program. You must have Java installed on your current machine.
     * On Windows, double click on `run.bat`.
     * On Linux or Mac, open up a terminal window in the directory with the extracted files, run the command `chmod +x run.sh` (this only needs to be done once), then use `./run.sh`.
