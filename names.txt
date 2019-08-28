@@ -67,10 +67,11 @@ ctumey@jhu.edu	caitlin
 jhuesports@gmail.com	esports association at johns hopkins
 jhu.gmb@gmail.com	global medical brigades
 band@jhu.edu	bands at jhu
-msesymposium@jhu.edu	Milton S. Eisenhower Symposium
+msesymposium@jhu.edu	milton s. eisenhower symposium
 ky.sigchi@gmail.com	sigma chi
 epidemicproportions@gmail.com	epidemic proportions
 hopsfa@jhu.edu	hopkins sci-fi and fantasy association
+agapejhu@jhu.edu	Agapé Campus Christian Fellowship
 idk	dunno
 jhujaywalk@gmail.com	jaywalk
 baddiso3@jhu.edu	unknown
@@ -78,6 +79,7 @@ null	null
 lisa.xiao@jhu.edu	global china connection
 dsaga@jhu.edu	dsaga
 qxu30@jhu.edu	sustainable hopkins innovative projects
+jhupolitik@gmail.com	Politik at JHU
 cbeaver1@jhu.edu	unknown
 humming.jay.jhu@gmail.com	humming jay
 president.he.kkg@gmail.com	kappa kappa gamma
@@ -91,7 +93,7 @@ jhu.quidditch@gmail.com	johns hopkins quidditch club
 igsa.board@gmail.com	indian graduate student association (igsa)
 slam.jhu@gmail.com	slam
 jhuzinda@gmail.com	zinda
-jhuchoralsociety@gmail.com	The Choral Society
+jhuchoralsociety@gmail.com	the choral society
 jtimmer3@jhu.edu	unknown
 gro@jhu.edu	gro
 marquemagazineofficial@gmail.com	marque magazine
